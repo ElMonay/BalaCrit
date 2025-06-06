@@ -37,5 +37,4 @@ Voucher Ideas:
 
 Deck Idea:
 
-1. sharp deck : starts with 25% crit chance. 
-2. x : starts with Hone voucher and one copy of "Breach"
+1. sharp deck : starts with Hone voucher and one copy of "Breach"
