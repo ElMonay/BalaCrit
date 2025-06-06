@@ -1,6 +1,7 @@
 BalaCrit:
 
 Gives the ability to crit with cards (Jokers and Consumables maybe later). Crits double the amount of Chips and Mult in the current score.
+// Values are subject to change and can differ depending on version / stage
 
 Joker Ideas:
 
@@ -9,7 +10,7 @@ Joker Ideas:
 3. Lucky Draw : this Joker has a 1/4 chance to give 2$ everytime a card crits. (uncommon)
 4. Less is More : this Joker gives 1% crit chance for every card under standard deck size (uncommon)
 5. Whetstone : This Joker gives 2% crit-chance every 10 cards played. (legendary)
-6. True Strike : Allows all Cards (Jokers and consumables) to crit (chance halved). (Rare)
+6. True Strike : Allows all Cards (Jokers and consumables) to crit (chance halved). (Rare) // May become a base mechanic depending on implementability
 7. Surge : The next 8 played Cards have +100% crit chance. (uncommon)
 8. Critical Patience: At the end of each hand, for every card that didn't crit the chance to gain a bonus increases (Resets after Crit). (Rare)
 	x% chance to give x Chips.
@@ -38,9 +39,3 @@ Deck Idea:
 
 1. sharp deck : starts with 25% crit chance. 
 2. x : starts with Hone voucher and one copy of "Breach"
-
-
-Blind Ideas:
-
-1. The Shard : critical strikes have a 1/2 chance to backfire.
-2. The Surgeon : only cards that crit are scored.
