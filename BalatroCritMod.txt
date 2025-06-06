@@ -6,7 +6,7 @@ Joker Ideas:
 
 1. Cheap Trick : this Joker gains 15 Chips everytime a card crits. (common)
 2. x : this Joker gains +1 Mult everytime a card crits. (uncommon)
-3. x : this Joker gains x0,25 Mult everytime a card crits. (rare)
+//3. x : this Joker gains x0,25 Mult everytime a card crits. (rare)
 4. Lucky Draw : this Joker has a 1/4 chance to give 2$ everytime a card crits. (uncommon)
 5. Less is More : this Joker gives 1% crit chance for every card under standard deck size (uncommon)
 6. x : This Joker gives 2% crit-chance every 10 cards played. (legendary)
@@ -18,8 +18,10 @@ Joker Ideas:
 	x% chance to give x$.
 10. Momentum : Gain 2% Crit Chance for every card played this hand. (Common)
 11. Tight Grip : Gain 4% Crit Chance for every card held in hand. (Uncommon)
-12. Final Gambit: Gives 35% critical Chance on final hand. (rare)
-
+12. Final Gambit: Gives +35% critical Chance on final hand. (rare)
+13. x : reduce critical chance by x%, gives 4$ at the end of round. (common)
+14. x : reduce critical chance by x%, has a 1/4 chance to be destroyed if 3 or more cards crit. (common)
+15. x : Either gives -50% or +200% crit chance. (rare) (only obtainable if 14. is destroyed)
 
 
 Consumable Ideas:
