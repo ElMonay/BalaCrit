@@ -5,23 +5,22 @@ Gives the ability to crit with cards (Jokers and Consumables maybe later). Crits
 Joker Ideas:
 
 1. Cheap Trick : this Joker gains 15 Chips everytime a card crits. (common)
-2. x : this Joker gains +1 Mult everytime a card crits. (uncommon)
-//3. x : this Joker gains x0,25 Mult everytime a card crits. (rare)
-4. Lucky Draw : this Joker has a 1/4 chance to give 2$ everytime a card crits. (uncommon)
-5. Less is More : this Joker gives 1% crit chance for every card under standard deck size (uncommon)
-6. x : This Joker gives 2% crit-chance every 10 cards played. (legendary)
-7. True Strike : Allows all Cards (Jokers and consumables) to crit (chance halved). (Rare)
-8. Surge : The next 8 played Cards have +100% crit chance. (uncommon)
-9. Critical Patience: At the end of each hand, for every card that didn't crit the chance to gain a bonus increases (Resets after Crit). (Rare)
+2. Sharp Wit : this Joker gains +2 Mult everytime a card crits. (common)
+3. Lucky Draw : this Joker has a 1/4 chance to give 2$ everytime a card crits. (uncommon)
+4. Less is More : this Joker gives 1% crit chance for every card under standard deck size (uncommon)
+5. Whetstone : This Joker gives 2% crit-chance every 10 cards played. (legendary)
+6. True Strike : Allows all Cards (Jokers and consumables) to crit (chance halved). (Rare)
+7. Surge : The next 8 played Cards have +100% crit chance. (uncommon)
+8. Critical Patience: At the end of each hand, for every card that didn't crit the chance to gain a bonus increases (Resets after Crit). (Rare)
 	x% chance to give x Chips.
 	x% chance to give x Mult.
 	x% chance to give x$.
-10. Momentum : Gain 2% Crit Chance for every card played this hand. (Common)
-11. Tight Grip : Gain 4% Crit Chance for every card held in hand. (Uncommon)
-12. Final Gambit: Gives +35% critical Chance on final hand. (rare)
-13. x : reduce critical chance by x%, gives 4$ at the end of round. (common)
-14. x : reduce critical chance by x%, has a 1/4 chance to be destroyed if 3 or more cards crit. (common)
-15. x : Either gives -50% or +200% crit chance. (rare) (only obtainable if 14. is destroyed)
+9. Momentum : Gain 2% Crit Chance for every card played this hand. Resets each hand. (Common)
+10. Tight Grip : Gain 4% Crit Chance for every card held in hand. (Uncommon)
+11. Final Gambit: Gives +35% critical Chance on final hand. (rare)
+12. Dull : reduce critical chance by 15%, gives 6$ at the end of round. (common)
+13. Blunt : reduce critical chance by 30%, has a 1/4 chance to be destroyed if 3 or more cards crit. (common)
+14. Double-Edged Sword : Either gives -50% or +200% crit chance. (rare) (only obtainable if 14. is destroyed)
 
 
 Consumable Ideas:
@@ -37,9 +36,11 @@ Voucher Ideas:
 
 Deck Idea:
 
-1. x : starts with 25% crit chance and one copy of "Breach" 
+1. sharp deck : starts with 25% crit chance. 
+2. x : starts with Hone voucher and one copy of "Breach"
 
 
 Blind Ideas:
 
-1. x : critical strikes have a 1/2 chance to backfire
+1. The Shard : critical strikes have a 1/2 chance to backfire.
+2. The Surgeon : only cards that crit are scored.
